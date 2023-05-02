@@ -1,4 +1,6 @@
-# resume-document-extraction-and-generation（个人本科毕业设计：常规文档智能抽取与填报生成关键技术）
+# resume-document-extraction-and-generation
+
+（个人本科毕业设计：常规文档智能抽取与填报生成关键技术）
 
 ## 功能：
 
