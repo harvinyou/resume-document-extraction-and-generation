@@ -1,10 +1,13 @@
-﻿# resume-document-extraction-and-generation
+# resume-document-extraction-and-generation
 
+## 功能：
 
-测试文档路径：0601/测试文档
+1.运行push_dir/gen_json.py深度学习方法抽取，训练的模型在model
+2.运行根目录下gen_json.py:自己写的规则方法抽取
+
+## 文档数据位置
+
+原文档数据位置：0601/测试文档
+
 输出抽取结果：0601/输出结果
-##
-功能：
-1.运行push_dir/gen_json:深度学习方法抽取，训练的模型在model
-2.运行根目录下gen_json:规则方法抽取
-##
+
