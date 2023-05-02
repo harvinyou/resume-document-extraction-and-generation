@@ -1,6 +1,6 @@
 ﻿# resume-document-extraction-and-generation
 
-##《文档抽取程序说明》
+《文档抽取程序说明》
 测试文档路径：0601/测试文档
 输出抽取结果：0601/输出结果
 ##
