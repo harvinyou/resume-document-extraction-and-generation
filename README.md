@@ -1,11 +1,11 @@
 # resume-document-extraction-and-generation
 
-## 功能：
+## 基本功能：
 
 1.运行push_dir/gen_json.py深度学习方法抽取，训练的模型在model
 2.运行根目录下gen_json.py:自己写的规则方法抽取
 
-## 文档数据位置
+## 文档数据位置：
 
 原文档数据位置：0601/测试文档
 
