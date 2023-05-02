@@ -1,4 +1,4 @@
-# resume-document-extraction-and-generation（本科毕业设计）
+# resume-document-extraction-and-generation（个人本科毕业设计）
 
 ## 功能：
 
