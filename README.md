@@ -8,6 +8,7 @@
 ![image](https://github.com/yuriamao/resume-document-extraction-and-generation/assets/58117390/4b6ba8ef-5286-407f-96c8-a21e47cbf01a)
 ![image](https://github.com/yuriamao/resume-document-extraction-and-generation/assets/58117390/085b38f8-2718-4e23-9c1d-7264949a220b)
 ![image](https://github.com/yuriamao/resume-document-extraction-and-generation/assets/58117390/7bd2c452-65ca-419d-9b5b-1c9e92f46a75)
+![image](https://github.com/yuriamao/resume-document-extraction-and-generation/assets/58117390/c4cbebd8-525d-4a8d-9eea-338506b3d605)
 
 
 ## 功能：
