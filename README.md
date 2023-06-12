@@ -4,6 +4,8 @@
  原比赛链接：https://tianchi.aliyun.com/competition/entrance/231771/information
  
  数据集链接：https://pan.baidu.com/s/15TrjzhNNBtrcu6hk4MlgxQ?pwd=6666 
+ 
+
  本科毕设论文截图：
  
 ![image](https://github.com/yuriamao/resume-document-extraction-and-generation/assets/58117390/318dfe8b-f679-4890-842f-601f0f98acc6)
